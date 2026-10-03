@@ -53,4 +53,4 @@ riot-retrieve export --output matches.jsonl
 
 MIT
 
-<!-- refreshed: 2026-10-02 -->
+<!-- refreshed: 2026-10-03 -->
